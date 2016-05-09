@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/treasure-data/td-ios-sdk"
   s.platform     = :tvos
   s.requires_arc = true
-  s.source       = { :git => "https://github.com/bcylin/td-ios-sdk.git", :commit => "4313913" }
+  s.source       = { :git => "https://github.com/bcylin/td-ios-sdk.git", :commit => "509d035" }
   s.source_files = 'TreasureData'
   s.library      = 'z'
   s.frameworks   = ['Security']
